@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "954128268807",
+    "firebase_url": "https://eagleally-9f3a8.firebaseio.com",
+    "project_id": "eagleally-9f3a8",
+    "storage_bucket": "eagleally-9f3a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954128268807:android:8197338bcf3ed4e2",
+        "android_client_info": {
+          "package_name": "com.icsax.eagleally"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954128268807-4rk8ftuef3av04mgeood4k4h777h7rdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL9bGOrUQyjVysw_VVOtTM8b-zypxYdqk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
